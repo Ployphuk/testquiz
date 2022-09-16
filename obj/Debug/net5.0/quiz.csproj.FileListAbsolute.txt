@@ -1,0 +1,16 @@
+D:\quiz\bin\Debug\net5.0\quiz.exe
+D:\quiz\bin\Debug\net5.0\quiz.deps.json
+D:\quiz\bin\Debug\net5.0\quiz.runtimeconfig.json
+D:\quiz\bin\Debug\net5.0\quiz.runtimeconfig.dev.json
+D:\quiz\bin\Debug\net5.0\quiz.dll
+D:\quiz\bin\Debug\net5.0\ref\quiz.dll
+D:\quiz\bin\Debug\net5.0\quiz.pdb
+D:\quiz\obj\Debug\net5.0\quiz.csprojAssemblyReference.cache
+D:\quiz\obj\Debug\net5.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\quiz\obj\Debug\net5.0\quiz.AssemblyInfoInputs.cache
+D:\quiz\obj\Debug\net5.0\quiz.AssemblyInfo.cs
+D:\quiz\obj\Debug\net5.0\quiz.csproj.CoreCompileInputs.cache
+D:\quiz\obj\Debug\net5.0\quiz.dll
+D:\quiz\obj\Debug\net5.0\ref\quiz.dll
+D:\quiz\obj\Debug\net5.0\quiz.pdb
+D:\quiz\obj\Debug\net5.0\quiz.genruntimeconfig.cache
